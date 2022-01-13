@@ -5,7 +5,7 @@ This program reads multiple files concurrently parsing the contents and writing 
 
 This program takes in as input: 1) sequence of input files containing urls, 2) number of threads (user defined).  An example of the command to be input in the terminal can be: `./multi-lookup names1.txt names2.txt 2`.  There is one restriction which is that the number of threads must be a multiple of the number of input files.  
 
-Details of the problem statment can be found [here](https://steve303.github.io/multiThread/problem_stmt.pdf).  This was from course material at CU Boulder, CSCI3753 operating sys.
+Details of the problem statment can be found [here](https://steve303.github.io/multiThreadProg-sharedfiles/problem_stmt.pdf).  This was from course material at CU Boulder, CSCI3753 operating sys.
 
 
 
